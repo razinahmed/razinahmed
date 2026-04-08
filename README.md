@@ -3,7 +3,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=250&section=header&text=Abdul%20Rasak%20V&fontSize=70&fontAlign=50&fontAlignY=35&desc=Full%20Stack%20Developer%20%7C%20UI/UX%20Designer&descAlign=50&descAlignY=55&animation=twinkling" width="100%" alt="Header Background"/>
 
 <a href="https://github.com/razinahmed">
-  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile+👋;Building+Modern+Web+Applications+💻;Crafting+Beautiful+UI%2FUX+Experiences+🎨;Open+Source+Enthusiast+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=24&duration=4000&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Welcome+to+my+GitHub+Profile!;Building+Modern+Web+Applications;Crafting+Beautiful+UI%2FUX+Experiences;Open+Source+Enthusiast" alt="Typing SVG" />
 </a>
 
 <br/>
