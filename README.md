@@ -60,43 +60,35 @@
 
 <table width="100%">
   <tr>
-    <td width="50%">
-      <h3 align="center">Next.js 14 AI SaaS Boilerplate</h3>
-      <div align="center">
-        <a href="https://github.com/razinahmed/nextjs-ai-saas-boilerplate">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=razinahmed&repo=nextjs-ai-saas-boilerplate&theme=radical&show_icons=true" alt="Next.js SaaS" />
-        </a>
-      </div>
-      <p align="center">Production-ready AI SaaS starter with Stripe & Supabase.</p>
+    <td width="50%" align="center">
+      <h3>🤖 Next.js 14 AI SaaS Boilerplate</h3>
+      <p>Production-ready AI SaaS starter with Stripe & Supabase.</p>
+      <a href="https://github.com/razinahmed/nextjs-ai-saas-boilerplate">
+        <img src="https://img.shields.io/github/stars/razinahmed/nextjs-ai-saas-boilerplate?style=social" alt="Stars" />
+      </a>
     </td>
-    <td width="50%">
-      <h3 align="center">Component Library Pro</h3>
-      <div align="center">
-        <a href="https://github.com/razinahmed/component-library-pro">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=razinahmed&repo=component-library-pro&theme=tokyonight&show_icons=true" alt="Component Library" />
-        </a>
-      </div>
-      <p align="center">Premium, animated React & Tailwind glass UI toolkit.</p>
+    <td width="50%" align="center">
+      <h3>✨ Component Library Pro</h3>
+      <p>Premium, animated React & Tailwind glass UI toolkit.</p>
+      <a href="https://github.com/razinahmed/component-library-pro">
+        <img src="https://img.shields.io/github/stars/razinahmed/component-library-pro?style=social" alt="Stars" />
+      </a>
     </td>
   </tr>
   <tr>
-    <td width="50%">
-      <h3 align="center">Awesome Developer Tools</h3>
-      <div align="center">
-        <a href="https://github.com/razinahmed/awesome-developer-tools">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=razinahmed&repo=awesome-developer-tools&theme=merko&show_icons=true" alt="Awesome Tools" />
-        </a>
-      </div>
-      <p align="center">Curated list of the best developer tools for 2025.</p>
+    <td width="50%" align="center">
+      <h3>🌟 Awesome Developer Tools</h3>
+      <p>Curated list of the best developer tools for 2025.</p>
+      <a href="https://github.com/razinahmed/awesome-developer-tools">
+        <img src="https://img.shields.io/github/stars/razinahmed/awesome-developer-tools?style=social" alt="Stars" />
+      </a>
     </td>
-    <td width="50%">
-      <h3 align="center">Smart Dashboard</h3>
-      <div align="center">
-        <a href="https://github.com/razinahmed/smart-dashboard">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=razinahmed&repo=smart-dashboard&theme=dark&show_icons=true" alt="Smart Dashboard" />
-        </a>
-      </div>
-      <p align="center">Real-time React analytics dashboard with live data.</p>
+    <td width="50%" align="center">
+      <h3>📊 Smart Dashboard</h3>
+      <p>Real-time React analytics dashboard with live data.</p>
+      <a href="https://github.com/razinahmed/smart-dashboard">
+        <img src="https://img.shields.io/github/stars/razinahmed/smart-dashboard?style=social" alt="Stars" />
+      </a>
     </td>
   </tr>
 </table>
@@ -107,18 +99,7 @@
 
 <div align="center">
 
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=razinahmed&theme=radical&row=1&column=7&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</a>
-
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api?username=razinahmed&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=razinahmed&theme=radical&hide_border=true" alt="GitHub Streak" width="48%" />
-
-<br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=razinahmed&layout=compact&theme=radical&hide_border=true" alt="Top Languages" width="60%" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=razinahmed&theme=radical&hide_border=true" alt="GitHub Streak" width="50%" />
 
 </div>
 
