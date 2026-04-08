@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=280&section=header&text=Razin%20Ahmed&fontSize=70&fontAlign=50&fontAlignY=35&desc=The%20Architect%20of%20AI%20%26%20Culture%20%7C%2040%2B%20Open%20Source%20Projects&descAlign=50&descAlignY=55&animation=twinkling" width="100%" alt="Header Background"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=280&section=header&text=Razin%20Ahmed&fontSize=70&fontAlign=50&fontAlignY=35&desc=The%20Architect%20of%20AI%20and%20Culture%20%7C%2040%2B%20Open%20Source%20Projects&descAlign=50&descAlignY=55&animation=twinkling" width="100%" alt="Header Background"/>
 
 <a href="https://github.com/razinahmed">
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=26&duration=3500&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=The+Largest+Kerala-focused+Dev+Portfolio;Building+Production-Ready+AI+Systems;40+Elite+Repositories+Live;Crafting+Modern+Software+Architectures;Bridging+Automation+and+Heritage" alt="Typing SVG" />
