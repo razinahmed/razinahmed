@@ -107,6 +107,54 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🤖 LangChain Agent Template</h3>
+      <p>A production-ready boilerplate for building autonomous AI agents.</p>
+      <a href="https://github.com/razinahmed/langchain-agent-template">
+        <img src="https://img.shields.io/github/stars/razinahmed/langchain-agent-template?style=social" alt="Stars" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🛡️ Offensive Security Toolkit</h3>
+      <p>Curated automated bash/python tools for footprinting & bug bounties.</p>
+      <a href="https://github.com/razinahmed/offensive-security-toolkit">
+        <img src="https://img.shields.io/github/stars/razinahmed/offensive-security-toolkit?style=social" alt="Stars" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🛒 Modern Ecommerce Storefront</h3>
+      <p>Headless Next.js 14 eCommerce template with Stripe checkout.</p>
+      <a href="https://github.com/razinahmed/modern-ecommerce-storefront">
+        <img src="https://img.shields.io/github/stars/razinahmed/modern-ecommerce-storefront?style=social" alt="Stars" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>📊 Machine Learning Notebooks</h3>
+      <p>Jupyter notebooks covering EDA, Deep Learning, and PyTorch.</p>
+      <a href="https://github.com/razinahmed/machine-learning-notebooks">
+        <img src="https://img.shields.io/github/stars/razinahmed/machine-learning-notebooks?style=social" alt="Stars" />
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🌍 Public APIs Wrapper</h3>
+      <p>Node.js gateway proxy for free APIs (Crypto, Weather, etc).</p>
+      <a href="https://github.com/razinahmed/public-apis-wrapper">
+        <img src="https://img.shields.io/github/stars/razinahmed/public-apis-wrapper?style=social" alt="Stars" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🧠 AI Image Classifier</h3>
+      <p>Upload images & get instant AI predictions using TensorFlow.</p>
+      <a href="https://github.com/razinahmed/ai-image-classifier">
+        <img src="https://img.shields.io/github/stars/razinahmed/ai-image-classifier?style=social" alt="Stars" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
