@@ -91,6 +91,22 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" align="center">
+      <h3>🐍 Python Automation Scripts</h3>
+      <p>A premium collection of scripts to automate your digital life.</p>
+      <a href="https://github.com/razinahmed/python-automation-scripts">
+        <img src="https://img.shields.io/github/stars/razinahmed/python-automation-scripts?style=social" alt="Stars" />
+      </a>
+    </td>
+    <td width="50%" align="center">
+      <h3>🌐 Web3 dApp Starter Kit</h3>
+      <p>Next.js + Solidity boilerplate for decentralized Ethereum apps.</p>
+      <a href="https://github.com/razinahmed/web3-dapp-starter">
+        <img src="https://img.shields.io/github/stars/razinahmed/web3-dapp-starter?style=social" alt="Stars" />
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
