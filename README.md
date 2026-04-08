@@ -28,6 +28,9 @@
 
 | Project | Description | Tech |
 |---------|-------------|------|
+| [Next.js 14 AI SaaS Boilerplate](https://github.com/razinahmed/nextjs-ai-saas-boilerplate) | 🚀 Production-ready AI SaaS starter with Stripe & Supabase | Next.js, OpenAI, Stripe |
+| [Component Library Pro](https://github.com/razinahmed/component-library-pro) | ✨ Premium, animated React & Tailwind glass UI toolkit | React, Tailwind, Framer |
+| [Awesome Developer Tools](https://github.com/razinahmed/awesome-developer-tools) | 🌟 Curated list of the best tools and resources for 2025 | Markdown, Lists |
 | [Smart Dashboard](https://github.com/razinahmed/smart-dashboard) | Real-time analytics dashboard with live data | React, Chart.js, Node.js |
 | [AI Image Classifier](https://github.com/razinahmed/ai-image-classifier) | Upload images & get instant AI predictions | Python, TensorFlow, Flask |
 | [REST API Starter Kit](https://github.com/razinahmed/rest-api-starter-kit) | Production-ready API boilerplate | FastAPI, JWT, Docker |
