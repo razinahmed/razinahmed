@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=280&section=header&text=Razin%20Ahmed&fontSize=70&fontAlign=50&fontAlignY=35&desc=The%20Architect%20of%20AI%20and%20Kerala%20Digital%20%7C%20101%20Open%20Source%20Projects&descAlign=50&descAlignY=55&animation=twinkling" width="100%" alt="Header Background"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:4facfe,100:00f2fe&height=280&section=header&text=Razin%20Ahmed&fontSize=70&fontAlign=50&fontAlignY=35&desc=The%20Architect%20of%20AI%20and%20Kerala%20Model%20%7C%20101%20Open%20Source%20Projects&descAlign=50&descAlignY=55&animation=twinkling" width="100%" alt="Header Background"/>
 
 <a href="https://github.com/razinahmed">
   <img src="https://readme-typing-svg.demolab.com?font=Outfit&weight=600&size=26&duration=3500&pause=1000&color=00D4AA&center=true&vCenter=true&width=700&lines=The+Centurion+Milestone:+101+Repos+Live;Top+1%25+of+Open+Source+Architects;Building+Production-Ready+AI+Systems;Open+Source+Cursor+AI+Architect;Bridging+Automation+and+Heritage" alt="Typing SVG" />
@@ -45,7 +45,7 @@
       <a href="https://github.com/razinahmed/open-cursor-ai-stack"><b>View Suite →</b></a>
     </td>
     <td width="33%" align="center">
-      <h3>🌴 Kerala Digital</h3>
+      <h3>🌴 Kerala Model</h3>
       <p>15+ Repos for Malayalam Tech & Traditions.</p>
       <a href="https://github.com/razinahmed/malayalam-voice-assistant"><b>View Suite →</b></a>
     </td>
@@ -83,7 +83,7 @@
 | Cluster | Featured High-Search Projects |
 |---------|--------------------------------|
 | **AI Utility Factory** | [open-cursor-ai-stack](https://github.com/razinahmed/open-cursor-ai-stack) · [local-llm-api-bridge](https://github.com/razinahmed/local-llm-api-bridge) · [fine-tuning-notebooks](https://github.com/razinahmed/fine-tuning-notebooks) · [pdf-summary-ai](https://github.com/razinahmed/pdf-summary-ai) · [prompt-gen-agent](https://github.com/razinahmed/prompt-gen-agent) · [voice-cloner-core](https://github.com/razinahmed/voice-cloner-core) |
-| **Malayalam & Digital** | [malayalam-voice-assistant](https://github.com/razinahmed/malayalam-voice-assistant) · [malayalam-shabdavali-api](https://github.com/razinahmed/malayalam-shabdavali-api) · [vallam-kali-browser-game](https://github.com/razinahmed/vallam-kali-browser-game) · [mollywood-cinema-api](https://github.com/razinahmed/mollywood-cinema-api) · [kerala-temple-geometry](https://github.com/razinahmed/kerala-temple-geometry) |
+| **Malayalam & Kerala Model** | [malayalam-voice-assistant](https://github.com/razinahmed/malayalam-voice-assistant) · [malayalam-shabdavali-api](https://github.com/razinahmed/malayalam-shabdavali-api) · [vallam-kali-browser-game](https://github.com/razinahmed/vallam-kali-browser-game) · [mollywood-cinema-api](https://github.com/razinahmed/mollywood-cinema-api) · [kerala-temple-geometry](https://github.com/razinahmed/kerala-temple-geometry) |
 | **DevSecOps Arsenal** | [cloud-harden-aws](https://github.com/razinahmed/cloud-harden-aws) · [vulnerability-scanner-pro](https://github.com/razinahmed/vulnerability-scanner-pro) · [secret-leak-preventer](https://github.com/razinahmed/secret-leak-preventer) · [docker-sec-auditor](https://github.com/razinahmed/docker-sec-auditor) · [k8s-manifest-checker](https://github.com/razinahmed/k8s-manifest-checker) |
 | **Design Empire** | [kerala-ui-kit](https://github.com/razinahmed/kerala-ui-kit) · [backwater-gradients](https://github.com/razinahmed/backwater-gradients) · [malayalam-typography](https://github.com/razinahmed/malayalam-typography) · [glassmorphic-cards](https://github.com/razinahmed/glassmorphic-cards) · [animated-headers-kit](https://github.com/razinahmed/animated-headers-kit) |
 | **Enterprise Web** | [nextjs-ai-saas-boilerplate](https://github.com/razinahmed/nextjs-ai-saas-boilerplate) · [microservices-go-grpc](https://github.com/razinahmed/microservices-go-grpc) · [web3-dapp-starter](https://github.com/razinahmed/web3-dapp-starter) · [serverless-aws-blueprints](https://github.com/razinahmed/serverless-aws-blueprints) |
